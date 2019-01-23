@@ -1,2 +1,11 @@
 # TEDx
-:microphone: Repository for TEDx talk on the future of money and banking
+
+## Overview
+
+I was asked to give a short informal talk at a TEDx event at the Cathedral Quarter in Belfast. I spoke on the topic of the history of financial folly and how this history can be important for having a more stable and prosperous future. That is, in terms of the state of the economy and financial sector, which I feel that we should all have a vested interest in. Indeed, the impact of the recent Subprime mortgage Crisis, which left millions unemployed, millions in poverty, and trillions of pounds and dollars in public and private debt, effected us all whether you have realised it or not. The health and stability of our economy is one of the most important issues of our civilisation. 
+
+The main hypothesis I put forward is simple: we need to learn the lessons of our past in order to have a stable future. That the technological innovation in consumer finance - such as the introduction of Bitcoin and other cryptocurrencies as well as peer-to-peer lending services and other products such as Square, Apple Pay - will not and can not revolutionise finance and banking. The fundamental problems in banking still exist and that future crises can still occur. The conclusion that I provide is similar to that provided by Professor John Turner in his recent book 'Banking in Crisis': to stop future financial catastrophe we must develop legal and economic institutions to reincentivise bank shareholders. Reincentivising bank shareholders will incentivise them to monitor the actions and lending portfolios of management. One way in which to reincentivise them is through the unlimited liability: if a bank were to fail, the shareholders have to pay back all depositsout of their own money. If a bank were to fail under a system of unlimited liability then all shareholders would effectively become bankrupt. 
+
+In my talk I explained some of the history of money, why it is so important, and the cyclical nature of Panic and Revolt. Below I provide the presentation slides and the script I based my talk on. The peice was filmed, but there is no way I am linking to it or embedding it here because I really can not speak in public... 
+
+The slides and the script are in PDF format in this repository.
